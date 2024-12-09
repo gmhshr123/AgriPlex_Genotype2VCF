@@ -1,6 +1,6 @@
 
 # AgriPlex_Genotype2VCF  
-A script to convert AgriPlex genotype data into usable VCF files.
+A script to convert AgriPlex genotype data into usable VCF files.  --Minghao 
 
 ## Overview  
 This repository provides a streamlined process for converting AgriPlex genotype data, typically provided in `.xlsx` format, into standardized VCF files for downstream analysis.
